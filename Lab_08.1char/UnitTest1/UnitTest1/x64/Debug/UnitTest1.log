@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\MY\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(11,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\MY\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(23,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\MY\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(24,9): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\MY\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(25,9): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\MY\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(28,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\MY\source\repos\Lab_08.1char\Lab_08.1char\Lab_08.1char.cpp(29,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest1.cpp')
+  
